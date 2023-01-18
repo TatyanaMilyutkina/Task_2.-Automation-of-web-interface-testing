@@ -1,0 +1,30 @@
+{
+  "name": "task_2.-automation-of-web-interface-testing",
+  "version": "1.0.0",
+  "description": "Automation-of-web-interface-testing\r # Домашнее задание к занятию «7.2. Node.js»",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatyanaMilyutkina/Task_2.-Automation-of-web-interface-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatyanaMilyutkina/Task_2.-Automation-of-web-interface-testing/issues"
+  },
+  "homepage": "https://github.com/TatyanaMilyutkina/Task_2.-Automation-of-web-interface-testing#readme",
+  "dependencies": {
+    "eslint": "^8.32.0",
+    "jest": "^29.3.1",
+    "json-schema-traverse": "^1.0.0",
+    "prettier": "^2.8.3"
+  },
+  "devDependencies": {
+    "eslint-plugin-jsonschema": "^0.2.0"
+  }
+}
